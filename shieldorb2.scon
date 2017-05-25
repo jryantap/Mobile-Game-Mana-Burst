@@ -1,0 +1,525 @@
+{
+	"entity": [
+		{
+			"animation": [
+				{
+					"gline": [],
+					"id": 0,
+					"interval": 100,
+					"length": 1500,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 0.441451,
+										"abs_scale_y": 0.437589,
+										"abs_x": 0.008082,
+										"abs_y": 0,
+										"file": 1,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "ShieldOrb",
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 180,
+										"abs_pivot_x": 0,
+										"abs_pivot_y": 1,
+										"abs_scale_x": 0.435465,
+										"abs_scale_y": 0.431584,
+										"abs_x": 0.569624,
+										"abs_y": 0,
+										"file": 1,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "ShieldOrb_000",
+										"timeline": "1",
+										"z_index": "1"
+									}
+								]
+							},
+							{
+								"bone_ref": [],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"timeline": "1",
+										"z_index": "1"
+									}
+								],
+								"time": 99
+							},
+							{
+								"bone_ref": [],
+								"id": 2,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"timeline": "1",
+										"z_index": "1"
+									}
+								],
+								"time": 200
+							},
+							{
+								"bone_ref": [],
+								"id": 3,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 3,
+										"timeline": "1",
+										"z_index": "1"
+									}
+								],
+								"time": 300
+							},
+							{
+								"bone_ref": [],
+								"id": 4,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 4,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 4,
+										"timeline": "1",
+										"z_index": "1"
+									}
+								],
+								"time": 400
+							},
+							{
+								"bone_ref": [],
+								"id": 5,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 5,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 5,
+										"timeline": "1",
+										"z_index": "1"
+									}
+								],
+								"time": 500
+							},
+							{
+								"bone_ref": [],
+								"id": 6,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 6,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 6,
+										"timeline": "1",
+										"z_index": "1"
+									}
+								],
+								"time": 600
+							},
+							{
+								"bone_ref": [],
+								"id": 7,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 7,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 7,
+										"timeline": "1",
+										"z_index": "1"
+									}
+								],
+								"time": 700
+							},
+							{
+								"bone_ref": [],
+								"id": 8,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 8,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 8,
+										"timeline": "1",
+										"z_index": "1"
+									}
+								],
+								"time": 799
+							},
+							{
+								"bone_ref": [],
+								"id": 9,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 8,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 9,
+										"timeline": "1",
+										"z_index": "1"
+									}
+								],
+								"time": 900
+							}
+						]
+					},
+					"name": "ShieldOrb",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.441451,
+										"scale_y": 0.437589,
+										"x": 0.008082
+									}
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 25.624093000000016,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.441451,
+										"scale_y": 0.437589,
+										"x": 0.008082
+									},
+									"time": 99
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 42.792336999999975,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.441451,
+										"scale_y": 0.437589,
+										"x": 0.008082
+									},
+									"time": 200
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 61.12761999999998,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.441451,
+										"scale_y": 0.437589,
+										"x": 0.008082
+									},
+									"time": 300
+								},
+								{
+									"id": 4,
+									"object": {
+										"angle": 90.01770799999997,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.441451,
+										"scale_y": 0.437589,
+										"x": 0.008082
+									},
+									"time": 400
+								},
+								{
+									"id": 5,
+									"object": {
+										"angle": 114.50672700000001,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.441451,
+										"scale_y": 0.437589,
+										"x": 0.008082
+									},
+									"time": 500
+								},
+								{
+									"id": 6,
+									"object": {
+										"angle": 131.371679,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.441451,
+										"scale_y": 0.437589,
+										"x": 0.008082
+									},
+									"time": 600
+								},
+								{
+									"id": 7,
+									"object": {
+										"angle": 149.517643,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.441451,
+										"scale_y": 0.437589,
+										"x": 0.008082
+									},
+									"time": 700
+								},
+								{
+									"id": 8,
+									"object": {
+										"angle": 180.32544,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.441451,
+										"scale_y": 0.437589,
+										"x": 0.008082
+									},
+									"time": 799
+								}
+							],
+							"name": "ShieldOrb",
+							"obj": 0
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 180,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.435465,
+										"scale_y": 0.431584,
+										"x": 0.569624
+									}
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 205.735487,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.435465,
+										"scale_y": 0.431584,
+										"x": 0.569624
+									},
+									"time": 99
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 223.033502,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.435465,
+										"scale_y": 0.431584,
+										"x": 0.569624
+									},
+									"time": 200
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 241.351968,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.435465,
+										"scale_y": 0.431584,
+										"x": 0.569624
+									},
+									"time": 300
+								},
+								{
+									"id": 4,
+									"object": {
+										"angle": 268.958125,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.435465,
+										"scale_y": 0.431584,
+										"x": 0.569624
+									},
+									"time": 400
+								},
+								{
+									"id": 5,
+									"object": {
+										"angle": 293.672704,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.435465,
+										"scale_y": 0.431584,
+										"x": 0.569624
+									},
+									"time": 500
+								},
+								{
+									"id": 6,
+									"object": {
+										"angle": 313.085073,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.435465,
+										"scale_y": 0.431584,
+										"x": 0.569624
+									},
+									"time": 600
+								},
+								{
+									"id": 7,
+									"object": {
+										"angle": 327.532985,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.435465,
+										"scale_y": 0.431584,
+										"x": 0.569624
+									},
+									"time": 700
+								},
+								{
+									"id": 8,
+									"object": {
+										"angle": 359.6729,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.435465,
+										"scale_y": 0.431584,
+										"x": 0.569624
+									},
+									"time": 799
+								},
+								{
+									"id": 9,
+									"object": {
+										"angle": 27.636077999999998,
+										"file": 1,
+										"folder": 0,
+										"scale_x": 0.435465,
+										"scale_y": 0.431584,
+										"x": 0.569624
+									},
+									"time": 900
+								}
+							],
+							"name": "ShieldOrb_000",
+							"obj": 1
+						}
+					]
+				}
+			],
+			"character_map": [],
+			"id": 0,
+			"name": "Shield",
+			"obj_info": [
+				{
+					"frames": [
+						{
+							"file": 1,
+							"folder": 0
+						}
+					],
+					"name": "Shield_ShieldOrb",
+					"realname": "ShieldOrb",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 1,
+							"folder": 0
+						}
+					],
+					"name": "Shield_ShieldOrb_000",
+					"realname": "ShieldOrb_000",
+					"type": "sprite"
+				}
+			]
+		}
+	],
+	"folder": [
+		{
+			"file": [
+				{
+					"height": 42,
+					"id": 0,
+					"name": "box.PNG",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 42
+				},
+				{
+					"height": 46,
+					"id": 1,
+					"name": "ShieldOrb.PNG",
+					"pivot_x": 0,
+					"pivot_y": 1,
+					"width": 47
+				}
+			],
+			"id": 0
+		}
+	],
+	"generator": "BrashMonkey Spriter",
+	"generator_version": "r4.1",
+	"scon_version": "1.0"
+}

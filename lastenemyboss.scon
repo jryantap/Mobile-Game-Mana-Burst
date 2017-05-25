@@ -1,0 +1,5498 @@
+{
+	"entity": [
+		{
+			"animation": [
+				{
+					"gline": [
+						{
+							"pos": -89,
+							"v": 1
+						},
+						{
+							"pos": 0
+						},
+						{
+							"pos": 0,
+							"v": 1
+						},
+						{
+							"pos": -36
+						},
+						{
+							"pos": 37
+						},
+						{
+							"pos": -217,
+							"v": 1
+						},
+						{
+							"pos": -200,
+							"v": 1
+						},
+						{
+							"pos": -182,
+							"v": 1
+						},
+						{
+							"pos": -164,
+							"v": 1
+						},
+						{
+							"pos": -147,
+							"v": 1
+						},
+						{
+							"pos": -192
+						},
+						{
+							"pos": 192
+						}
+					],
+					"id": 0,
+					"interval": 100,
+					"length": 1000,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"timeline": 13
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.5,
+										"abs_pivot_y": 0.5,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -205.03006384098623,
+										"abs_y": 0.15830106250630543,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "Body5",
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.388889,
+										"abs_pivot_y": 0.5,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -193.80226352513904,
+										"abs_y": 0.15830113627357312,
+										"file": 4,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "Body4",
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.537418,
+										"abs_pivot_y": 0.509491,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -172.40195365753092,
+										"abs_y": -0.3001054453837203,
+										"file": 3,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "Body3",
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 358.96526900000003,
+										"abs_pivot_x": 0.495351,
+										"abs_pivot_y": 0.503527,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -142.7819682647058,
+										"abs_y": 0.34061697242987055,
+										"file": 2,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "Body2",
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.498017,
+										"abs_pivot_y": 0.50141,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -84.82773818982716,
+										"abs_y": 0.09021818932425607,
+										"file": 1,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "Body1",
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.253729,
+										"abs_pivot_y": 0.501139,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -41.85899265847357,
+										"abs_y": 0.0011387910131804846,
+										"file": 5,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "head",
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.896552,
+										"abs_pivot_y": 0.03030299999999997,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -88.047809,
+										"abs_y": -37.450199,
+										"file": 8,
+										"folder": 0,
+										"id": 6,
+										"key": 0,
+										"name": "RBWing_000",
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.424658,
+										"abs_pivot_y": 0.012657999999999947,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -89.243028,
+										"abs_y": -37.450199,
+										"file": 9,
+										"folder": 0,
+										"id": 7,
+										"key": 0,
+										"name": "RTopWing_000",
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.847163,
+										"abs_pivot_y": 0.969979,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -88.509708,
+										"abs_y": 38.98588,
+										"file": 6,
+										"folder": 0,
+										"id": 8,
+										"key": 0,
+										"name": "LBWing",
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.405405,
+										"abs_pivot_y": 0.981013,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -88.104089,
+										"abs_y": 39.033457,
+										"file": 7,
+										"folder": 0,
+										"id": 9,
+										"key": 0,
+										"name": "LTopWing_000",
+										"timeline": "9",
+										"z_index": "9"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"timeline": 13
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 1,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 1,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"id": 8,
+										"key": 1,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"id": 9,
+										"key": 1,
+										"timeline": "9",
+										"z_index": "9"
+									}
+								],
+								"time": 199
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"timeline": 13
+									}
+								],
+								"id": 2,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 1,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 1,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"id": 8,
+										"key": 1,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"id": 9,
+										"key": 1,
+										"timeline": "9",
+										"z_index": "9"
+									}
+								],
+								"time": 400
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"timeline": 13
+									}
+								],
+								"id": 3,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 2,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 2,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"id": 8,
+										"key": 2,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"id": 9,
+										"key": 2,
+										"timeline": "9",
+										"z_index": "9"
+									}
+								],
+								"time": 599
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 3,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 3,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"timeline": 13
+									}
+								],
+								"id": 4,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 2,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 2,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 3,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 3,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"id": 8,
+										"key": 3,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"id": 9,
+										"key": 3,
+										"timeline": "9",
+										"z_index": "9"
+									}
+								],
+								"time": 800
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 4,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 4,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 4,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 4,
+										"timeline": 13
+									}
+								],
+								"id": 5,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 2,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 2,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 2,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 1000
+							}
+						]
+					},
+					"name": "Falling",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 800
+								}
+							],
+							"name": "Body5",
+							"obj": 8
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 800
+								}
+							],
+							"name": "Body4",
+							"obj": 9
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 800
+								}
+							],
+							"name": "Body3",
+							"obj": 10
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 178.22121,
+										"file": 2,
+										"folder": 0,
+										"pivot_x": 0.495351,
+										"pivot_y": 0.503527,
+										"x": 71.249148,
+										"y": 0.205913
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 178.22121,
+										"file": 2,
+										"folder": 0,
+										"pivot_x": 0.495351,
+										"pivot_y": 0.503527,
+										"x": 71.249148,
+										"y": 0.205913
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 178.22121,
+										"file": 2,
+										"folder": 0,
+										"pivot_x": 0.495351,
+										"pivot_y": 0.503527,
+										"x": 71.249148,
+										"y": 0.205913
+									},
+									"spin": 0,
+									"time": 800
+								}
+							],
+							"name": "Body2",
+							"obj": 11
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 179.255941,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.498017,
+										"pivot_y": 0.50141,
+										"x": 13.296553,
+										"y": 0.708124
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 179.255941,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.498017,
+										"pivot_y": 0.50141,
+										"x": 13.296553,
+										"y": 0.708124
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 179.255941,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.498017,
+										"pivot_y": 0.50141,
+										"x": 13.296553,
+										"y": 0.708124
+									},
+									"spin": 0,
+									"time": 800
+								}
+							],
+							"name": "Body1",
+							"obj": 12
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0.20462700000001632,
+										"file": 5,
+										"folder": 0,
+										"pivot_x": 0.253729,
+										"pivot_y": 0.501139,
+										"x": 15.059323,
+										"y": -0.342615
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 0.20462700000001632,
+										"file": 5,
+										"folder": 0,
+										"pivot_x": 0.253729,
+										"pivot_y": 0.501139,
+										"x": 15.059323,
+										"y": -0.342615
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 0.20462700000001632,
+										"file": 5,
+										"folder": 0,
+										"pivot_x": 0.253729,
+										"pivot_y": 0.501139,
+										"x": 15.059323,
+										"y": -0.342615
+									},
+									"spin": 0,
+									"time": 800
+								}
+							],
+							"name": "head",
+							"obj": 13
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 8,
+										"folder": 0,
+										"x": -88.047809,
+										"y": 37.450199
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 0,
+										"file": 8,
+										"folder": 0,
+										"x": -97.91328,
+										"y": 40.589213
+									},
+									"time": 199
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 24.714441000000022,
+										"file": 8,
+										"folder": 0,
+										"scale_x": 1.130055,
+										"scale_y": 1.130055,
+										"x": -105.037033,
+										"y": 43.975264
+									},
+									"spin": -1,
+									"time": 599
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 21.598138000000006,
+										"file": 8,
+										"folder": 0,
+										"scale_x": 1.113656,
+										"scale_y": 1.113656,
+										"x": -132.745568,
+										"y": 71.510712
+									},
+									"spin": -1,
+									"time": 800
+								}
+							],
+							"name": "RBWing_000",
+							"obj": 14
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 9,
+										"folder": 0,
+										"x": -89.243028,
+										"y": 37.450199
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 0,
+										"file": 9,
+										"folder": 0,
+										"x": -77.583835,
+										"y": 44.176657
+									},
+									"spin": -1,
+									"time": 199
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 349.839209,
+										"file": 9,
+										"folder": 0,
+										"scale_x": 1.108871,
+										"scale_y": 1.145537,
+										"x": -78.859513,
+										"y": 43.474874
+									},
+									"time": 599
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 351.120407,
+										"file": 9,
+										"folder": 0,
+										"scale_x": 1.41012,
+										"scale_y": 1.451378,
+										"x": -65.989691,
+										"y": 70.327148
+									},
+									"time": 800
+								}
+							],
+							"name": "RTopWing_000",
+							"obj": 15
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 6,
+										"folder": 0,
+										"pivot_x": 0.847163,
+										"pivot_y": 0.969979,
+										"x": -88.509708,
+										"y": -38.98588
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 0,
+										"file": 6,
+										"folder": 0,
+										"pivot_x": 0.847163,
+										"pivot_y": 0.969979,
+										"x": -100.617331,
+										"y": -40.331172
+									},
+									"spin": -1,
+									"time": 199
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 344.898683,
+										"file": 6,
+										"folder": 0,
+										"pivot_x": 0.847163,
+										"pivot_y": 0.969979,
+										"scale_x": 1.152688,
+										"scale_y": 1.09462,
+										"x": -104.52631,
+										"y": -40.245955
+									},
+									"time": 599
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 346.802844,
+										"file": 6,
+										"folder": 0,
+										"pivot_x": 0.847163,
+										"pivot_y": 0.969979,
+										"scale_x": 1.37447,
+										"scale_y": 1.312932,
+										"x": -130.118678,
+										"y": -63.967666
+									},
+									"time": 800
+								}
+							],
+							"name": "LBWing",
+							"obj": 16
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 7,
+										"folder": 0,
+										"x": -88.104089,
+										"y": -39.033457
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 0,
+										"file": 7,
+										"folder": 0,
+										"x": -81.377632,
+										"y": -44.863054
+									},
+									"time": 199
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 16.472125000000005,
+										"file": 7,
+										"folder": 0,
+										"scale_x": 1.174025,
+										"scale_y": 1.174025,
+										"x": -82.117542,
+										"y": -44.221798
+									},
+									"spin": -1,
+									"time": 599
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 14.395115999999973,
+										"file": 7,
+										"folder": 0,
+										"scale_x": 1.642447,
+										"scale_y": 1.642447,
+										"x": -65.708221,
+										"y": -65.955647
+									},
+									"spin": -1,
+									"time": 800
+								}
+							],
+							"name": "LTopWing_000",
+							"obj": 17
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"bone": {
+										"angle": 359.795373,
+										"x": -56.916996,
+										"y": 0.395257
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 359.795373,
+										"scale_x": 0.903417,
+										"scale_y": 0.903417,
+										"x": -51.994437,
+										"y": 0.356972
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 359.795373,
+										"scale_x": 0.868046,
+										"scale_y": 0.868046,
+										"x": -48.839468,
+										"y": 0.342951
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"bone": {
+										"angle": 359.795373,
+										"scale_x": 0.813427,
+										"scale_y": 0.813427,
+										"x": -45.791635,
+										"y": 0.3213
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 800
+								},
+								{
+									"bone": {
+										"angle": 359.795373,
+										"scale_x": 0.796951,
+										"scale_y": 0.804021,
+										"x": -46.731531,
+										"y": 0.317572
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 1000
+								}
+							],
+							"name": "bone_000",
+							"obj": 0,
+							"object_type": "bone"
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"bone": {
+										"angle": 180.744059,
+										"x": -71.541502,
+										"y": 0.790514
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 180.744059,
+										"scale_x": 0.903417,
+										"scale_y": 0.903417,
+										"x": -65.206461,
+										"y": 0.714053
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 180.744059,
+										"scale_x": 0.868046,
+										"scale_y": 0.868046,
+										"x": -61.534207,
+										"y": 0.686052
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"bone": {
+										"angle": 180.744059,
+										"scale_x": 0.813427,
+										"scale_y": 0.813427,
+										"x": -57.687607,
+										"y": 0.642813
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 800
+								},
+								{
+									"bone": {
+										"angle": 180.744059,
+										"scale_x": 0.796951,
+										"scale_y": 0.804021,
+										"x": -58.38655,
+										"y": 0.635366
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 1000
+								}
+							],
+							"name": "bone_001",
+							"obj": 1,
+							"object_type": "bone"
+						},
+						{
+							"id": 12,
+							"key": [
+								{
+									"bone": {
+										"angle": 178.512132,
+										"x": -170.355731,
+										"y": -0.790514
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 178.512132,
+										"scale_x": 0.903417,
+										"scale_y": 0.903417,
+										"x": -154.476893,
+										"y": -0.714273
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 178.512132,
+										"scale_x": 0.868046,
+										"scale_y": 0.868046,
+										"x": -147.30947,
+										"y": -0.686352
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"bone": {
+										"angle": 178.512132,
+										"scale_x": 0.813427,
+										"scale_y": 0.813427,
+										"x": -138.065798,
+										"y": -0.643238
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 800
+								},
+								{
+									"bone": {
+										"angle": 178.512132,
+										"scale_x": 0.796951,
+										"scale_y": 0.804021,
+										"x": -137.136674,
+										"y": -0.635813
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 1000
+								}
+							],
+							"name": "bone_002",
+							"obj": 2,
+							"object_type": "bone"
+						},
+						{
+							"id": 13,
+							"key": [
+								{
+									"bone": {
+										"angle": 180.622756,
+										"x": -200.790514,
+										"y": 0.395257
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 180.622756,
+										"scale_x": 0.903417,
+										"scale_y": 0.903417,
+										"x": -181.972186,
+										"y": 0.356972
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 180.622756,
+										"scale_x": 0.868046,
+										"scale_y": 0.868046,
+										"x": -173.728251,
+										"y": 0.342951
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"bone": {
+										"angle": 180.622756,
+										"scale_x": 0.813427,
+										"scale_y": 0.813427,
+										"x": -162.822281,
+										"y": 0.3213
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 800
+								},
+								{
+									"bone": {
+										"angle": 180.622756,
+										"scale_x": 0.796951,
+										"scale_y": 0.804021,
+										"x": -161.391713,
+										"y": 0.317572
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 1000
+								}
+							],
+							"name": "bone_003",
+							"obj": 3,
+							"object_type": "bone"
+						}
+					]
+				},
+				{
+					"gline": [
+						{
+							"pos": -89,
+							"v": 1
+						},
+						{
+							"pos": 0
+						},
+						{
+							"pos": 0,
+							"v": 1
+						},
+						{
+							"pos": -36
+						},
+						{
+							"pos": 37
+						},
+						{
+							"pos": -217,
+							"v": 1
+						},
+						{
+							"pos": -200,
+							"v": 1
+						},
+						{
+							"pos": -182,
+							"v": 1
+						},
+						{
+							"pos": -164,
+							"v": 1
+						},
+						{
+							"pos": -147,
+							"v": 1
+						}
+					],
+					"id": 1,
+					"interval": 100,
+					"length": 250,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"timeline": 13
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"timeline": 14
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 4,
+										"timeline": 15
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"timeline": 16
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 6,
+										"timeline": 17
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.5,
+										"abs_pivot_y": 0.5,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -205.03006384098623,
+										"abs_y": 0.15830106250630543,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "Body5",
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.388889,
+										"abs_pivot_y": 0.5,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -193.80226352513904,
+										"abs_y": 0.15830113627357312,
+										"file": 4,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "Body4",
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.537418,
+										"abs_pivot_y": 0.509491,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -172.40195365753092,
+										"abs_y": -0.3001054453837203,
+										"file": 3,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "Body3",
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 358.96526900000003,
+										"abs_pivot_x": 0.495351,
+										"abs_pivot_y": 0.503527,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -142.7819682647058,
+										"abs_y": 0.34061697242987055,
+										"file": 2,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "Body2",
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.498017,
+										"abs_pivot_y": 0.50141,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -84.82773818982716,
+										"abs_y": 0.09021818932425607,
+										"file": 1,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "Body1",
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.253729,
+										"abs_pivot_y": 0.501139,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -41.85899265847357,
+										"abs_y": 0.0011387910131804846,
+										"file": 5,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "head",
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.896552,
+										"abs_pivot_y": 0.03030299999999997,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -88.04780917475595,
+										"abs_y": -37.45019990395829,
+										"file": 8,
+										"folder": 0,
+										"id": 6,
+										"key": 0,
+										"name": "RBWing_000",
+										"parent": 5,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 359.99999999999994,
+										"abs_pivot_x": 0.424658,
+										"abs_pivot_y": 0.012657999999999947,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -89.24302807685226,
+										"abs_y": -37.450199874937496,
+										"file": 9,
+										"folder": 0,
+										"id": 7,
+										"key": 0,
+										"name": "RTopWing_000",
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.847163,
+										"abs_pivot_y": 0.969979,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -88.50970805986576,
+										"abs_y": 38.98588020481469,
+										"file": 6,
+										"folder": 0,
+										"id": 8,
+										"key": 0,
+										"name": "LBWing",
+										"parent": 7,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.405405,
+										"abs_pivot_y": 0.981013,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -88.10408935951564,
+										"abs_y": 39.03345665025322,
+										"file": 7,
+										"folder": 0,
+										"id": 9,
+										"key": 0,
+										"name": "LTopWing_000",
+										"parent": 6,
+										"timeline": "9",
+										"z_index": "9"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 3,
+										"parent": 1,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"parent": 2,
+										"timeline": 13
+									},
+									{
+										"id": 4,
+										"key": 1,
+										"timeline": 14
+									},
+									{
+										"id": 5,
+										"key": 1,
+										"parent": 4,
+										"timeline": 15
+									},
+									{
+										"id": 6,
+										"key": 1,
+										"timeline": 16
+									},
+									{
+										"id": 7,
+										"key": 1,
+										"parent": 6,
+										"timeline": 17
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 5,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"id": 8,
+										"key": 0,
+										"parent": 7,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"id": 9,
+										"key": 0,
+										"parent": 6,
+										"timeline": "9",
+										"z_index": "9"
+									}
+								],
+								"time": 100
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 4,
+										"parent": 1,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 4,
+										"parent": 2,
+										"timeline": 13
+									},
+									{
+										"id": 4,
+										"key": 2,
+										"timeline": 14
+									},
+									{
+										"id": 5,
+										"key": 2,
+										"parent": 4,
+										"timeline": 15
+									},
+									{
+										"id": 6,
+										"key": 2,
+										"timeline": 16
+									},
+									{
+										"id": 7,
+										"key": 2,
+										"parent": 6,
+										"timeline": 17
+									}
+								],
+								"id": 2,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 5,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"id": 8,
+										"key": 0,
+										"parent": 7,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"id": 9,
+										"key": 0,
+										"parent": 6,
+										"timeline": "9",
+										"z_index": "9"
+									}
+								],
+								"time": 150
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 3,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 5,
+										"parent": 1,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 5,
+										"parent": 2,
+										"timeline": 13
+									},
+									{
+										"id": 4,
+										"key": 3,
+										"timeline": 14
+									},
+									{
+										"id": 5,
+										"key": 3,
+										"parent": 4,
+										"timeline": 15
+									},
+									{
+										"id": 6,
+										"key": 3,
+										"timeline": 16
+									},
+									{
+										"id": 7,
+										"key": 3,
+										"parent": 6,
+										"timeline": 17
+									}
+								],
+								"id": 3,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 3,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 3,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 5,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"id": 8,
+										"key": 0,
+										"parent": 7,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"id": 9,
+										"key": 0,
+										"parent": 6,
+										"timeline": "9",
+										"z_index": "9"
+									}
+								],
+								"time": 200
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 4,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 4,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 6,
+										"parent": 1,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 6,
+										"parent": 2,
+										"timeline": 13
+									},
+									{
+										"id": 4,
+										"key": 4,
+										"timeline": 14
+									},
+									{
+										"id": 5,
+										"key": 4,
+										"parent": 4,
+										"timeline": 15
+									},
+									{
+										"id": 6,
+										"key": 4,
+										"timeline": 16
+									},
+									{
+										"id": 7,
+										"key": 4,
+										"parent": 6,
+										"timeline": 17
+									}
+								],
+								"id": 4,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 4,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 4,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 4,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"id": 6,
+										"key": 0,
+										"parent": 5,
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"id": 7,
+										"key": 0,
+										"parent": 4,
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"id": 8,
+										"key": 0,
+										"parent": 7,
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"id": 9,
+										"key": 0,
+										"parent": 6,
+										"timeline": "9",
+										"z_index": "9"
+									}
+								],
+								"time": 250
+							}
+						]
+					},
+					"name": "Flying",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 100
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 150
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 200
+								},
+								{
+									"id": 4,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 250
+								}
+							],
+							"name": "Body5",
+							"obj": 8
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 100
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 150
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 200
+								},
+								{
+									"id": 4,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 250
+								}
+							],
+							"name": "Body4",
+							"obj": 9
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 100
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 150
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 200
+								},
+								{
+									"id": 4,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 250
+								}
+							],
+							"name": "Body3",
+							"obj": 10
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 178.22121,
+										"file": 2,
+										"folder": 0,
+										"pivot_x": 0.495351,
+										"pivot_y": 0.503527,
+										"x": 71.249148,
+										"y": 0.205913
+									},
+									"spin": 0
+								}
+							],
+							"name": "Body2",
+							"obj": 11
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 179.255941,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.498017,
+										"pivot_y": 0.50141,
+										"x": 13.296553,
+										"y": 0.708124
+									},
+									"spin": 0
+								}
+							],
+							"name": "Body1",
+							"obj": 12
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0.20462700000001632,
+										"file": 5,
+										"folder": 0,
+										"pivot_x": 0.253729,
+										"pivot_y": 0.501139,
+										"x": 15.059323,
+										"y": -0.342615
+									},
+									"spin": 0
+								}
+							],
+							"name": "head",
+							"obj": 13
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 233.315126,
+										"file": 8,
+										"folder": 0,
+										"x": -7.272237,
+										"y": -1.336409
+									},
+									"spin": 0
+								}
+							],
+							"name": "RBWing_000",
+							"obj": 14
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 279.390837,
+										"file": 9,
+										"folder": 0,
+										"x": 0.02329,
+										"y": -2.949564
+									},
+									"spin": 0
+								}
+							],
+							"name": "RTopWing_000",
+							"obj": 15
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 122.87290899999999,
+										"file": 6,
+										"folder": 0,
+										"pivot_x": 0.847163,
+										"pivot_y": 0.969979,
+										"x": -0.365211,
+										"y": 2.550062
+									},
+									"spin": 0
+								}
+							],
+							"name": "LBWing",
+							"obj": 16
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 77.496578,
+										"file": 7,
+										"folder": 0,
+										"x": 2.685876,
+										"y": 0.877725
+									},
+									"spin": 0
+								}
+							],
+							"name": "LTopWing_000",
+							"obj": 17
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"bone": {
+										"angle": 359.795373,
+										"x": -56.916996,
+										"y": 0.395257
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 356.088142,
+										"x": -56.916996,
+										"y": 0.395257
+									},
+									"id": 1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 0.14602800000000116,
+										"x": -56.916996,
+										"y": 0.395257
+									},
+									"id": 2,
+									"time": 150
+								},
+								{
+									"bone": {
+										"angle": 3.9621720000000096,
+										"x": -56.916996,
+										"y": 0.395257
+									},
+									"id": 3,
+									"spin": -1,
+									"time": 200
+								},
+								{
+									"bone": {
+										"angle": 0.14416899999997668,
+										"x": -56.916996,
+										"y": 0.395257
+									},
+									"id": 4,
+									"spin": -1,
+									"time": 250
+								}
+							],
+							"name": "bone_000",
+							"obj": 0,
+							"object_type": "bone"
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"bone": {
+										"angle": 180.744059,
+										"x": -71.541502,
+										"y": 0.790514
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 185.644158,
+										"x": -71.541502,
+										"y": 0.790514
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 180.791556,
+										"x": -71.541502,
+										"y": 0.790514
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 150
+								},
+								{
+									"bone": {
+										"angle": 174.798166,
+										"x": -71.541502,
+										"y": 0.790514
+									},
+									"id": 3,
+									"time": 200
+								},
+								{
+									"bone": {
+										"angle": 181.210767,
+										"x": -71.541502,
+										"y": 0.790514
+									},
+									"id": 4,
+									"spin": -1,
+									"time": 250
+								}
+							],
+							"name": "bone_001",
+							"obj": 1,
+							"object_type": "bone"
+						},
+						{
+							"id": 12,
+							"key": [
+								{
+									"bone": {
+										"angle": 357.768073,
+										"x": 98.82642802497894,
+										"y": 0.2977015701687387
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 178.512132,
+										"x": -170.355731,
+										"y": -0.790514
+									},
+									"id": 1
+								},
+								{
+									"bone": {
+										"angle": 189.21431200000006,
+										"x": -169.85953043898513,
+										"y": -9.225312525828805
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 3.5701540000000023,
+										"x": 98.826428,
+										"y": 0.297701
+									},
+									"id": 3,
+									"spin": -1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 358.531993,
+										"x": 98.826428,
+										"y": 0.297701
+									},
+									"id": 4,
+									"spin": -1,
+									"time": 150
+								},
+								{
+									"bone": {
+										"angle": 347.946786,
+										"x": 98.826428,
+										"y": 0.297701
+									},
+									"id": 5,
+									"time": 200
+								},
+								{
+									"bone": {
+										"angle": 355.981558,
+										"x": 98.826428,
+										"y": 0.297701
+									},
+									"id": 6,
+									"time": 250
+								}
+							],
+							"name": "bone_002",
+							"obj": 2,
+							"object_type": "bone"
+						},
+						{
+							"id": 13,
+							"key": [
+								{
+									"bone": {
+										"angle": 2.11062400000003,
+										"x": 30.455310644098084,
+										"y": -0.39512364269508826
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 180.622756,
+										"x": -200.790514,
+										"y": 0.395257
+									},
+									"id": 1
+								},
+								{
+									"bone": {
+										"angle": 195.54518900000005,
+										"x": -199.98512449488598,
+										"y": -13.712027688455812
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 6.330876999999987,
+										"x": 30.45531,
+										"y": -0.395124
+									},
+									"id": 3,
+									"spin": -1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 0.37952699999999595,
+										"x": 30.45531,
+										"y": -0.395124
+									},
+									"id": 4,
+									"spin": -1,
+									"time": 150
+								},
+								{
+									"bone": {
+										"angle": 343.467162,
+										"x": 30.45531,
+										"y": -0.395124
+									},
+									"id": 5,
+									"time": 200
+								},
+								{
+									"bone": {
+										"angle": 3.4320579999999836,
+										"x": 30.45531,
+										"y": -0.395124
+									},
+									"id": 6,
+									"spin": -1,
+									"time": 250
+								}
+							],
+							"name": "bone_003",
+							"obj": 3,
+							"object_type": "bone"
+						},
+						{
+							"id": 14,
+							"key": [
+								{
+									"bone": {
+										"angle": 80.60916299999997,
+										"x": -92.156863,
+										"y": 37.908497
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 20.924502000000018,
+										"x": -92.156863,
+										"y": 37.908497
+									},
+									"id": 1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 132.253599,
+										"x": -92.156863,
+										"y": 37.908497
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 150
+								},
+								{
+									"bone": {
+										"angle": 33.43986899999999,
+										"x": -92.156863,
+										"y": 37.908497
+									},
+									"id": 3,
+									"time": 200
+								},
+								{
+									"bone": {
+										"angle": 128.53018,
+										"x": -92.156863,
+										"y": 37.908497
+									},
+									"id": 4,
+									"spin": -1,
+									"time": 250
+								}
+							],
+							"name": "bone_004",
+							"obj": 4,
+							"object_type": "bone"
+						},
+						{
+							"id": 15,
+							"key": [
+								{
+									"bone": {
+										"angle": 46.07571100000001,
+										"x": 4.300557,
+										"y": 2.036192
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 46.07571100000001,
+										"x": 4.300557,
+										"y": 2.036192
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 46.07571100000001,
+										"x": 4.300557,
+										"y": 2.036192
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 150
+								},
+								{
+									"bone": {
+										"angle": 46.07571100000001,
+										"x": 4.300557,
+										"y": 2.036192
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 200
+								},
+								{
+									"bone": {
+										"angle": 46.07571100000001,
+										"x": 4.300557,
+										"y": 2.036192
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 250
+								}
+							],
+							"name": "bone_005",
+							"obj": 5,
+							"object_type": "bone"
+						},
+						{
+							"id": 16,
+							"key": [
+								{
+									"bone": {
+										"angle": 282.503422,
+										"x": -89.542484,
+										"y": -36.601307
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 339.916324,
+										"x": -89.542484,
+										"y": -36.601307
+									},
+									"id": 1,
+									"spin": -1,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 228.468229,
+										"x": -89.542484,
+										"y": -36.601307
+									},
+									"id": 2,
+									"time": 150
+								},
+								{
+									"bone": {
+										"angle": 333.720949,
+										"x": -89.542484,
+										"y": -36.601307
+									},
+									"id": 3,
+									"spin": -1,
+									"time": 200
+								},
+								{
+									"bone": {
+										"angle": 231.033253,
+										"x": -89.542484,
+										"y": -36.601307
+									},
+									"id": 4,
+									"time": 250
+								}
+							],
+							"name": "bone_006",
+							"obj": 6,
+							"object_type": "bone"
+						},
+						{
+							"id": 17,
+							"key": [
+								{
+									"bone": {
+										"angle": 314.623669,
+										"x": 0.993183,
+										"y": -1.559191
+									},
+									"id": 0,
+									"spin": 0
+								},
+								{
+									"bone": {
+										"angle": 314.623669,
+										"x": 0.993183,
+										"y": -1.559191
+									},
+									"id": 1,
+									"spin": 0,
+									"time": 100
+								},
+								{
+									"bone": {
+										"angle": 314.623669,
+										"x": 0.993183,
+										"y": -1.559191
+									},
+									"id": 2,
+									"spin": 0,
+									"time": 150
+								},
+								{
+									"bone": {
+										"angle": 314.623669,
+										"x": 0.993183,
+										"y": -1.559191
+									},
+									"id": 3,
+									"spin": 0,
+									"time": 200
+								},
+								{
+									"bone": {
+										"angle": 314.623669,
+										"x": 0.993183,
+										"y": -1.559191
+									},
+									"id": 4,
+									"spin": 0,
+									"time": 250
+								}
+							],
+							"name": "bone_007",
+							"obj": 7,
+							"object_type": "bone"
+						}
+					]
+				},
+				{
+					"gline": [
+						{
+							"pos": -89,
+							"v": 1
+						},
+						{
+							"pos": 0
+						},
+						{
+							"pos": 0,
+							"v": 1
+						},
+						{
+							"pos": -36
+						},
+						{
+							"pos": 37
+						},
+						{
+							"pos": -217,
+							"v": 1
+						},
+						{
+							"pos": -200,
+							"v": 1
+						},
+						{
+							"pos": -182,
+							"v": 1
+						},
+						{
+							"pos": -164,
+							"v": 1
+						},
+						{
+							"pos": -147,
+							"v": 1
+						}
+					],
+					"id": 2,
+					"interval": 100,
+					"length": 1000,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 6
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"timeline": 7
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"timeline": 8
+									},
+									{
+										"id": 3,
+										"key": 1,
+										"timeline": 9
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.5,
+										"abs_pivot_y": 0.5,
+										"abs_scale_x": 0.779697,
+										"abs_scale_y": 0.779697,
+										"abs_x": -162.99201829236742,
+										"abs_y": 0.1236785606619788,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "Body5",
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.388889,
+										"abs_pivot_y": 0.5,
+										"abs_scale_x": 0.779697,
+										"abs_scale_y": 0.779697,
+										"abs_x": -154.23774807025336,
+										"abs_y": 0.12367752679109612,
+										"file": 4,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "Body4",
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.537418,
+										"abs_pivot_y": 0.509491,
+										"abs_scale_x": 0.779697,
+										"abs_scale_y": 0.779697,
+										"abs_x": -137.5519906674089,
+										"abs_y": -0.2337407097073506,
+										"file": 3,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "Body3",
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 358.96526900000003,
+										"abs_pivot_x": 0.495351,
+										"abs_pivot_y": 0.503527,
+										"abs_scale_x": 0.779697,
+										"abs_scale_y": 0.779697,
+										"abs_x": -114.4574138251923,
+										"abs_y": 0.2658294258106527,
+										"file": 2,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "Body2",
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.498017,
+										"abs_pivot_y": 0.50141,
+										"abs_scale_x": 0.779697,
+										"abs_scale_y": 0.779697,
+										"abs_x": -69.27067449849967,
+										"abs_y": 0.07059424581955442,
+										"file": 1,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "Body1",
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.253729,
+										"abs_pivot_y": 0.501139,
+										"abs_scale_x": 0.779697,
+										"abs_scale_y": 0.779697,
+										"abs_x": -35.76807796862187,
+										"abs_y": 0.001139609065603786,
+										"file": 5,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "head",
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								]
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"timeline": 6
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"timeline": 7
+									},
+									{
+										"id": 2,
+										"key": 3,
+										"parent": 1,
+										"timeline": 8
+									},
+									{
+										"id": 3,
+										"key": 3,
+										"parent": 2,
+										"timeline": 9
+									}
+								],
+								"id": 1,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 1,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 1,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 1,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 99
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"timeline": 6
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"timeline": 7
+									},
+									{
+										"id": 2,
+										"key": 4,
+										"parent": 1,
+										"timeline": 8
+									},
+									{
+										"id": 3,
+										"key": 4,
+										"parent": 2,
+										"timeline": 9
+									}
+								],
+								"id": 2,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 2,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 2,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 2,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 199
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"timeline": 6
+									},
+									{
+										"id": 1,
+										"key": 3,
+										"timeline": 7
+									},
+									{
+										"id": 2,
+										"key": 5,
+										"parent": 1,
+										"timeline": 8
+									},
+									{
+										"id": 3,
+										"key": 5,
+										"parent": 2,
+										"timeline": 9
+									}
+								],
+								"id": 3,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 3,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 3,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 3,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 300
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 4,
+										"timeline": 6
+									},
+									{
+										"id": 1,
+										"key": 4,
+										"timeline": 7
+									},
+									{
+										"id": 2,
+										"key": 6,
+										"parent": 1,
+										"timeline": 8
+									},
+									{
+										"id": 3,
+										"key": 6,
+										"parent": 2,
+										"timeline": 9
+									}
+								],
+								"id": 4,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 4,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 4,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 4,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 400
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 5,
+										"timeline": 6
+									},
+									{
+										"id": 1,
+										"key": 5,
+										"timeline": 7
+									},
+									{
+										"id": 2,
+										"key": 7,
+										"parent": 1,
+										"timeline": 8
+									},
+									{
+										"id": 3,
+										"key": 7,
+										"parent": 2,
+										"timeline": 9
+									}
+								],
+								"id": 5,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 5,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 5,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 5,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 500
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 6,
+										"timeline": 6
+									},
+									{
+										"id": 1,
+										"key": 6,
+										"timeline": 7
+									},
+									{
+										"id": 2,
+										"key": 8,
+										"parent": 1,
+										"timeline": 8
+									},
+									{
+										"id": 3,
+										"key": 8,
+										"parent": 2,
+										"timeline": 9
+									}
+								],
+								"id": 6,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 6,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 6,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 6,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 599
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 7,
+										"timeline": 6
+									},
+									{
+										"id": 1,
+										"key": 7,
+										"timeline": 7
+									},
+									{
+										"id": 2,
+										"key": 9,
+										"parent": 1,
+										"timeline": 8
+									},
+									{
+										"id": 3,
+										"key": 9,
+										"parent": 2,
+										"timeline": 9
+									}
+								],
+								"id": 7,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 7,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 7,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 7,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 700
+							},
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 8,
+										"timeline": 6
+									},
+									{
+										"id": 1,
+										"key": 8,
+										"timeline": 7
+									},
+									{
+										"id": 2,
+										"key": 10,
+										"parent": 1,
+										"timeline": 8
+									},
+									{
+										"id": 3,
+										"key": 10,
+										"parent": 2,
+										"timeline": 9
+									}
+								],
+								"id": 8,
+								"object_ref": [
+									{
+										"id": 0,
+										"key": 8,
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"id": 1,
+										"key": 8,
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"id": 2,
+										"key": 8,
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"id": 4,
+										"key": 0,
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"id": 5,
+										"key": 0,
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									}
+								],
+								"time": 800
+							}
+						]
+					},
+					"name": "Snake",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 99
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 199
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 300
+								},
+								{
+									"id": 4,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 5,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 500
+								},
+								{
+									"id": 6,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 599
+								},
+								{
+									"id": 7,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 700
+								},
+								{
+									"id": 8,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0,
+									"time": 800
+								}
+							],
+							"name": "Body5",
+							"obj": 8
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 99
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 199
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 300
+								},
+								{
+									"id": 4,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 5,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 500
+								},
+								{
+									"id": 6,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 599
+								},
+								{
+									"id": 7,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 700
+								},
+								{
+									"id": 8,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0,
+									"time": 800
+								}
+							],
+							"name": "Body4",
+							"obj": 9
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0
+								},
+								{
+									"id": 1,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 99
+								},
+								{
+									"id": 2,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 199
+								},
+								{
+									"id": 3,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 300
+								},
+								{
+									"id": 4,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 400
+								},
+								{
+									"id": 5,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 500
+								},
+								{
+									"id": 6,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 599
+								},
+								{
+									"id": 7,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 700
+								},
+								{
+									"id": 8,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0,
+									"time": 800
+								}
+							],
+							"name": "Body3",
+							"obj": 10
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 178.22121,
+										"file": 2,
+										"folder": 0,
+										"pivot_x": 0.495351,
+										"pivot_y": 0.503527,
+										"x": 71.249148,
+										"y": 0.205913
+									},
+									"spin": 0
+								}
+							],
+							"name": "Body2",
+							"obj": 11
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 179.255941,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.498017,
+										"pivot_y": 0.50141,
+										"x": 13.296553,
+										"y": 0.708124
+									},
+									"spin": 0
+								}
+							],
+							"name": "Body1",
+							"obj": 12
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0.20462700000001632,
+										"file": 5,
+										"folder": 0,
+										"pivot_x": 0.253729,
+										"pivot_y": 0.501139,
+										"x": 15.059323,
+										"y": -0.342615
+									},
+									"spin": 0
+								}
+							],
+							"name": "head",
+							"obj": 13
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"bone": {
+										"angle": 359.795373,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -47.508758,
+										"y": 0.307929
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 356.452541,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -47.508758,
+										"y": 0.307929
+									},
+									"id": 1,
+									"time": 99
+								},
+								{
+									"bone": {
+										"angle": 359.363676,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -47.508758,
+										"y": 0.307929
+									},
+									"id": 2,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 2.764026000000001,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -47.508758,
+										"y": 0.307929
+									},
+									"id": 3,
+									"spin": -1,
+									"time": 300
+								},
+								{
+									"bone": {
+										"angle": 359.398942,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -47.508758,
+										"y": 0.307929
+									},
+									"id": 4,
+									"spin": -1,
+									"time": 400
+								},
+								{
+									"bone": {
+										"angle": 356.228766,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -47.508758,
+										"y": 0.307929
+									},
+									"id": 5,
+									"time": 500
+								},
+								{
+									"bone": {
+										"angle": 0.21190699999999651,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -47.508758,
+										"y": 0.307929
+									},
+									"id": 6,
+									"time": 599
+								},
+								{
+									"bone": {
+										"angle": 2.1917000000000257,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -47.508758,
+										"y": 0.307929
+									},
+									"id": 7,
+									"spin": -1,
+									"time": 700
+								},
+								{
+									"bone": {
+										"angle": 359.415148,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -47.508758,
+										"y": 0.307929
+									},
+									"id": 8,
+									"time": 800
+								}
+							],
+							"name": "bone_000",
+							"obj": 0,
+							"object_type": "bone"
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"bone": {
+										"angle": 180.744059,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -58.911436,
+										"y": 0.61611
+									},
+									"id": 0
+								},
+								{
+									"bone": {
+										"angle": 186.685719,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -58.911436,
+										"y": 0.61611
+									},
+									"id": 1,
+									"time": 99
+								},
+								{
+									"bone": {
+										"angle": 191.919889,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -58.911436,
+										"y": 0.61611
+									},
+									"id": 2,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 201.580397,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -58.911436,
+										"y": 0.61611
+									},
+									"id": 3,
+									"spin": -1,
+									"time": 300
+								},
+								{
+									"bone": {
+										"angle": 194.232835,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -58.911436,
+										"y": 0.61611
+									},
+									"id": 4,
+									"spin": -1,
+									"time": 400
+								},
+								{
+									"bone": {
+										"angle": 184.799788,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -58.911436,
+										"y": 0.61611
+									},
+									"id": 5,
+									"spin": -1,
+									"time": 500
+								},
+								{
+									"bone": {
+										"angle": 174.849279,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -58.911436,
+										"y": 0.61611
+									},
+									"id": 6,
+									"spin": -1,
+									"time": 599
+								},
+								{
+									"bone": {
+										"angle": 158.938513,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -58.911436,
+										"y": 0.61611
+									},
+									"id": 7,
+									"spin": -1,
+									"time": 700
+								},
+								{
+									"bone": {
+										"angle": 156.805462,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -58.911436,
+										"y": 0.61611
+									},
+									"id": 8,
+									"time": 800
+								}
+							],
+							"name": "bone_001",
+							"obj": 1,
+							"object_type": "bone"
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"bone": {
+										"angle": 357.768073,
+										"x": 98.82638067871437,
+										"y": 0.2977011736590384
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 178.512132,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -135.956557,
+										"y": -0.616612
+									},
+									"id": 1
+								},
+								{
+									"bone": {
+										"angle": 195.00440400000002,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -135.41508672963786,
+										"y": -8.585378165846016
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 99
+								},
+								{
+									"bone": {
+										"angle": 8.318685000000016,
+										"x": 98.826428,
+										"y": 0.297701
+									},
+									"id": 3,
+									"time": 99
+								},
+								{
+									"bone": {
+										"angle": 19.320862999999974,
+										"x": 98.826428,
+										"y": 0.297701
+									},
+									"id": 4,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 28.544059000000004,
+										"x": 98.826428,
+										"y": 0.297701
+									},
+									"id": 5,
+									"spin": -1,
+									"time": 300
+								},
+								{
+									"bone": {
+										"angle": 5.78412400000002,
+										"x": 99.554293,
+										"y": 0.052694
+									},
+									"id": 6,
+									"spin": -1,
+									"time": 400
+								},
+								{
+									"bone": {
+										"angle": 353.524831,
+										"x": 99.432982,
+										"y": 0.093529
+									},
+									"id": 7,
+									"spin": -1,
+									"time": 500
+								},
+								{
+									"bone": {
+										"angle": 341.189787,
+										"x": 99.312884,
+										"y": 0.133955
+									},
+									"id": 8,
+									"spin": -1,
+									"time": 599
+								},
+								{
+									"bone": {
+										"angle": 324.09982,
+										"x": 99.19036,
+										"y": 0.175197
+									},
+									"id": 9,
+									"spin": -1,
+									"time": 700
+								},
+								{
+									"bone": {
+										"angle": 323.162382,
+										"x": 99.06905,
+										"y": 0.216032
+									},
+									"id": 10,
+									"time": 800
+								}
+							],
+							"name": "bone_002",
+							"obj": 2,
+							"object_type": "bone"
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"bone": {
+										"angle": 2.11062400000003,
+										"x": 30.45529522138507,
+										"y": -0.39512264305522254
+									},
+									"id": 0,
+									"spin": -1
+								},
+								{
+									"bone": {
+										"angle": 180.622756,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -159.686454,
+										"y": 0.307929
+									},
+									"id": 1
+								},
+								{
+									"bone": {
+										"angle": 207.94387600000005,
+										"scale_x": 0.779697,
+										"scale_y": 0.779697,
+										"x": -158.43116477720616,
+										"y": -14.435462514990764
+									},
+									"id": 2,
+									"spin": -1,
+									"time": 99
+								},
+								{
+									"bone": {
+										"angle": 12.939472000000023,
+										"x": 30.45531,
+										"y": -0.395124
+									},
+									"id": 3,
+									"time": 99
+								},
+								{
+									"bone": {
+										"angle": 27.429282999999998,
+										"x": 30.45531,
+										"y": -0.395124
+									},
+									"id": 4,
+									"time": 199
+								},
+								{
+									"bone": {
+										"angle": 37.36504600000001,
+										"x": 30.45531,
+										"y": -0.395124
+									},
+									"id": 5,
+									"spin": -1,
+									"time": 300
+								},
+								{
+									"bone": {
+										"angle": 8.800117999999998,
+										"x": 30.45531,
+										"y": -0.395124
+									},
+									"id": 6,
+									"spin": -1,
+									"time": 400
+								},
+								{
+									"bone": {
+										"angle": 351.26544,
+										"x": 30.45531,
+										"y": -0.395124
+									},
+									"id": 7,
+									"spin": -1,
+									"time": 500
+								},
+								{
+									"bone": {
+										"angle": 343.909935,
+										"x": 30.45531,
+										"y": -0.395124
+									},
+									"id": 8,
+									"spin": -1,
+									"time": 599
+								},
+								{
+									"bone": {
+										"angle": 332.317585,
+										"x": 30.45531,
+										"y": -0.395124
+									},
+									"id": 9,
+									"spin": -1,
+									"time": 700
+								},
+								{
+									"bone": {
+										"angle": 328.649452,
+										"x": 30.45531,
+										"y": -0.395124
+									},
+									"id": 10,
+									"time": 800
+								}
+							],
+							"name": "bone_003",
+							"obj": 3,
+							"object_type": "bone"
+						}
+					]
+				},
+				{
+					"gline": [
+						{
+							"pos": -89,
+							"v": 1
+						},
+						{
+							"pos": 0
+						},
+						{
+							"pos": 0,
+							"v": 1
+						},
+						{
+							"pos": -36
+						},
+						{
+							"pos": 37
+						},
+						{
+							"pos": -217,
+							"v": 1
+						},
+						{
+							"pos": -200,
+							"v": 1
+						},
+						{
+							"pos": -182,
+							"v": 1
+						},
+						{
+							"pos": -164,
+							"v": 1
+						},
+						{
+							"pos": -147,
+							"v": 1
+						}
+					],
+					"id": 3,
+					"interval": 100,
+					"length": 1000,
+					"mainline": {
+						"key": [
+							{
+								"bone_ref": [
+									{
+										"id": 0,
+										"key": 0,
+										"timeline": 10
+									},
+									{
+										"id": 1,
+										"key": 0,
+										"timeline": 11
+									},
+									{
+										"id": 2,
+										"key": 0,
+										"timeline": 12
+									},
+									{
+										"id": 3,
+										"key": 0,
+										"timeline": 13
+									}
+								],
+								"id": 0,
+								"object_ref": [
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.5,
+										"abs_pivot_y": 0.5,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -205.03006384098623,
+										"abs_y": 0.15830106250630543,
+										"file": 0,
+										"folder": 0,
+										"id": 0,
+										"key": 0,
+										"name": "Body5",
+										"parent": 3,
+										"timeline": "0",
+										"z_index": "0"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.388889,
+										"abs_pivot_y": 0.5,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -193.80226352513904,
+										"abs_y": 0.15830113627357312,
+										"file": 4,
+										"folder": 0,
+										"id": 1,
+										"key": 0,
+										"name": "Body4",
+										"parent": 2,
+										"timeline": "1",
+										"z_index": "1"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.537418,
+										"abs_pivot_y": 0.509491,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -172.40195365753092,
+										"abs_y": -0.3001054453837203,
+										"file": 3,
+										"folder": 0,
+										"id": 2,
+										"key": 0,
+										"name": "Body3",
+										"parent": 2,
+										"timeline": "2",
+										"z_index": "2"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 358.96526900000003,
+										"abs_pivot_x": 0.495351,
+										"abs_pivot_y": 0.503527,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -142.7819682647058,
+										"abs_y": 0.34061697242987055,
+										"file": 2,
+										"folder": 0,
+										"id": 3,
+										"key": 0,
+										"name": "Body2",
+										"parent": 1,
+										"timeline": "3",
+										"z_index": "3"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.498017,
+										"abs_pivot_y": 0.50141,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -84.82773818982716,
+										"abs_y": 0.09021818932425607,
+										"file": 1,
+										"folder": 0,
+										"id": 4,
+										"key": 0,
+										"name": "Body1",
+										"parent": 1,
+										"timeline": "4",
+										"z_index": "4"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.253729,
+										"abs_pivot_y": 0.501139,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -41.85899265847357,
+										"abs_y": 0.0011387910131804846,
+										"file": 5,
+										"folder": 0,
+										"id": 5,
+										"key": 0,
+										"name": "head",
+										"parent": 0,
+										"timeline": "5",
+										"z_index": "5"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.896552,
+										"abs_pivot_y": 0.03030299999999997,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -88.047809,
+										"abs_y": -37.450199,
+										"file": 8,
+										"folder": 0,
+										"id": 6,
+										"key": 0,
+										"name": "RBWing_000",
+										"timeline": "6",
+										"z_index": "6"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.424658,
+										"abs_pivot_y": 0.012657999999999947,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -89.243028,
+										"abs_y": -37.450199,
+										"file": 9,
+										"folder": 0,
+										"id": 7,
+										"key": 0,
+										"name": "RTopWing_000",
+										"timeline": "7",
+										"z_index": "7"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.847163,
+										"abs_pivot_y": 0.969979,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -88.509708,
+										"abs_y": 38.98588,
+										"file": 6,
+										"folder": 0,
+										"id": 8,
+										"key": 0,
+										"name": "LBWing",
+										"timeline": "8",
+										"z_index": "8"
+									},
+									{
+										"abs_a": 1,
+										"abs_angle": 0,
+										"abs_pivot_x": 0.405405,
+										"abs_pivot_y": 0.981013,
+										"abs_scale_x": 1,
+										"abs_scale_y": 1,
+										"abs_x": -88.104089,
+										"abs_y": 39.033457,
+										"file": 7,
+										"folder": 0,
+										"id": 9,
+										"key": 0,
+										"name": "LTopWing_000",
+										"timeline": "9",
+										"z_index": "9"
+									}
+								]
+							}
+						]
+					},
+					"name": "Original",
+					"timeline": [
+						{
+							"id": 0,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 179.377244,
+										"file": 0,
+										"folder": 0,
+										"x": 4.245316,
+										"y": 0.507446
+									},
+									"spin": 0
+								}
+							],
+							"name": "Body5",
+							"obj": 8
+						},
+						{
+							"id": 1,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 181.487868,
+										"file": 4,
+										"folder": 0,
+										"x": 23.455043,
+										"y": -0.023204
+									},
+									"spin": 0
+								}
+							],
+							"name": "Body4",
+							"obj": 9
+						},
+						{
+							"id": 2,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 181.487868,
+										"file": 3,
+										"folder": 0,
+										"pivot_x": 0.537418,
+										"pivot_y": 0.509491,
+										"x": 2.073851,
+										"y": -1.037121
+									},
+									"spin": 0
+								}
+							],
+							"name": "Body3",
+							"obj": 10
+						},
+						{
+							"id": 3,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 178.22121,
+										"file": 2,
+										"folder": 0,
+										"pivot_x": 0.495351,
+										"pivot_y": 0.503527,
+										"x": 71.249148,
+										"y": 0.205913
+									},
+									"spin": 0
+								}
+							],
+							"name": "Body2",
+							"obj": 11
+						},
+						{
+							"id": 4,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 179.255941,
+										"file": 1,
+										"folder": 0,
+										"pivot_x": 0.498017,
+										"pivot_y": 0.50141,
+										"x": 13.296553,
+										"y": 0.708124
+									},
+									"spin": 0
+								}
+							],
+							"name": "Body1",
+							"obj": 12
+						},
+						{
+							"id": 5,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0.20462700000001632,
+										"file": 5,
+										"folder": 0,
+										"pivot_x": 0.253729,
+										"pivot_y": 0.501139,
+										"x": 15.059323,
+										"y": -0.342615
+									},
+									"spin": 0
+								}
+							],
+							"name": "head",
+							"obj": 13
+						},
+						{
+							"id": 6,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 8,
+										"folder": 0,
+										"x": -88.047809,
+										"y": 37.450199
+									},
+									"spin": 0
+								}
+							],
+							"name": "RBWing_000",
+							"obj": 14
+						},
+						{
+							"id": 7,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 9,
+										"folder": 0,
+										"x": -89.243028,
+										"y": 37.450199
+									},
+									"spin": 0
+								}
+							],
+							"name": "RTopWing_000",
+							"obj": 15
+						},
+						{
+							"id": 8,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 6,
+										"folder": 0,
+										"pivot_x": 0.847163,
+										"pivot_y": 0.969979,
+										"x": -88.509708,
+										"y": -38.98588
+									},
+									"spin": 0
+								}
+							],
+							"name": "LBWing",
+							"obj": 16
+						},
+						{
+							"id": 9,
+							"key": [
+								{
+									"id": 0,
+									"object": {
+										"angle": 0,
+										"file": 7,
+										"folder": 0,
+										"x": -88.104089,
+										"y": -39.033457
+									},
+									"spin": 0
+								}
+							],
+							"name": "LTopWing_000",
+							"obj": 17
+						},
+						{
+							"id": 10,
+							"key": [
+								{
+									"bone": {
+										"angle": 359.795373,
+										"x": -56.916996,
+										"y": 0.395257
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_000",
+							"obj": 0,
+							"object_type": "bone"
+						},
+						{
+							"id": 11,
+							"key": [
+								{
+									"bone": {
+										"angle": 180.744059,
+										"x": -71.541502,
+										"y": 0.790514
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_001",
+							"obj": 1,
+							"object_type": "bone"
+						},
+						{
+							"id": 12,
+							"key": [
+								{
+									"bone": {
+										"angle": 178.512132,
+										"x": -170.355731,
+										"y": -0.790514
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_002",
+							"obj": 2,
+							"object_type": "bone"
+						},
+						{
+							"id": 13,
+							"key": [
+								{
+									"bone": {
+										"angle": 180.622756,
+										"x": -200.790514,
+										"y": 0.395257
+									},
+									"id": 0,
+									"spin": 0
+								}
+							],
+							"name": "bone_003",
+							"obj": 3,
+							"object_type": "bone"
+						}
+					]
+				}
+			],
+			"character_map": [],
+			"id": 0,
+			"name": "FinalBoss",
+			"obj_info": [
+				{
+					"h": 10,
+					"name": "FinalBoss_bone_000",
+					"realname": "bone_000",
+					"type": "bone",
+					"w": 110.673
+				},
+				{
+					"h": 10,
+					"name": "FinalBoss_bone_001",
+					"realname": "bone_001",
+					"type": "bone",
+					"w": 91.312
+				},
+				{
+					"h": 10,
+					"name": "FinalBoss_bone_002",
+					"realname": "bone_002",
+					"type": "bone",
+					"w": 30.445
+				},
+				{
+					"h": 10,
+					"name": "FinalBoss_bone_003",
+					"realname": "bone_003",
+					"type": "bone",
+					"w": 36.3658
+				},
+				{
+					"h": 10,
+					"name": "FinalBoss_bone_004",
+					"realname": "bone_004",
+					"type": "bone",
+					"w": 172.243
+				},
+				{
+					"h": 10,
+					"name": "FinalBoss_bone_005",
+					"realname": "bone_005",
+					"type": "bone",
+					"w": 121.439
+				},
+				{
+					"h": 10,
+					"name": "FinalBoss_bone_006",
+					"realname": "bone_006",
+					"type": "bone",
+					"w": 160.004
+				},
+				{
+					"h": 10,
+					"name": "FinalBoss_bone_007",
+					"realname": "bone_007",
+					"type": "bone",
+					"w": 114.396
+				},
+				{
+					"frames": [
+						{
+							"file": 0,
+							"folder": 0
+						}
+					],
+					"name": "FinalBoss_Body5",
+					"realname": "Body5",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 4,
+							"folder": 0
+						}
+					],
+					"name": "FinalBoss_Body4",
+					"realname": "Body4",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 3,
+							"folder": 0
+						}
+					],
+					"name": "FinalBoss_Body3",
+					"realname": "Body3",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 2,
+							"folder": 0
+						}
+					],
+					"name": "FinalBoss_Body2",
+					"realname": "Body2",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 1,
+							"folder": 0
+						}
+					],
+					"name": "FinalBoss_Body1",
+					"realname": "Body1",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 5,
+							"folder": 0
+						}
+					],
+					"name": "FinalBoss_head",
+					"realname": "head",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 8,
+							"folder": 0
+						}
+					],
+					"name": "FinalBoss_RBWing_000",
+					"realname": "RBWing_000",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 9,
+							"folder": 0
+						}
+					],
+					"name": "FinalBoss_RTopWing_000",
+					"realname": "RTopWing_000",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 6,
+							"folder": 0
+						}
+					],
+					"name": "FinalBoss_LBWing",
+					"realname": "LBWing",
+					"type": "sprite"
+				},
+				{
+					"frames": [
+						{
+							"file": 7,
+							"folder": 0
+						}
+					],
+					"name": "FinalBoss_LTopWing_000",
+					"realname": "LTopWing_000",
+					"type": "sprite"
+				}
+			]
+		}
+	],
+	"folder": [
+		{
+			"file": [
+				{
+					"height": 24,
+					"id": 0,
+					"name": "Body5.PNG",
+					"pivot_x": 0.5,
+					"pivot_y": 0.5,
+					"width": 24
+				},
+				{
+					"height": 100,
+					"id": 1,
+					"name": "Body1.PNG",
+					"pivot_x": 0.494737,
+					"pivot_y": 0.52,
+					"width": 95
+				},
+				{
+					"height": 51,
+					"id": 2,
+					"name": "Body2.PNG",
+					"pivot_x": 0.479167,
+					"pivot_y": 0.54902,
+					"width": 48
+				},
+				{
+					"height": 35,
+					"id": 3,
+					"name": "Body3.PNG",
+					"pivot_x": 0.515152,
+					"pivot_y": 0.542857,
+					"width": 33
+				},
+				{
+					"height": 24,
+					"id": 4,
+					"name": "Body4.PNG",
+					"pivot_x": 0.388889,
+					"pivot_y": 0.5,
+					"width": 18
+				},
+				{
+					"height": 124,
+					"id": 5,
+					"name": "head.PNG",
+					"pivot_x": 0.244898,
+					"pivot_y": 0.516129,
+					"width": 98
+				},
+				{
+					"height": 98,
+					"id": 6,
+					"name": "LBWing.PNG",
+					"pivot_x": 0.82716,
+					"pivot_y": 0.969388,
+					"width": 81
+				},
+				{
+					"height": 158,
+					"id": 7,
+					"name": "LTopWing.png",
+					"pivot_x": 0.405405,
+					"pivot_y": 0.981013,
+					"width": 74
+				},
+				{
+					"height": 99,
+					"id": 8,
+					"name": "RBWing.PNG",
+					"pivot_x": 0.896552,
+					"pivot_y": 0.03030299999999997,
+					"width": 87
+				},
+				{
+					"height": 158,
+					"id": 9,
+					"name": "RTopWing.PNG",
+					"pivot_x": 0.424658,
+					"pivot_y": 0.012657999999999947,
+					"width": 73
+				},
+				{
+					"height": 300,
+					"id": 10,
+					"name": "Wing.png",
+					"pivot_x": 0.386861,
+					"pivot_y": 0.986667,
+					"width": 137
+				},
+				{
+					"height": 300,
+					"id": 11,
+					"name": "Wing copy.png",
+					"pivot_x": 0.40146,
+					"pivot_y": 0.020000000000000018,
+					"width": 137
+				}
+			],
+			"id": 0
+		}
+	],
+	"generator": "BrashMonkey Spriter",
+	"generator_version": "r4.1",
+	"scon_version": "1.0"
+}
