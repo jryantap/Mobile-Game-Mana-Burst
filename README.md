@@ -1,4 +1,4 @@
-# Mobile-Game-Mana-Burst
+# MobileGame-ManaBurst
 Trying out some game developing as a hobby.  This is my first ever game on mobile using the Construct 2 game engine in HTML5.
 
 **Mana Burst**
